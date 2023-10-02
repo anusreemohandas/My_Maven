@@ -4,7 +4,7 @@ public class Vowels {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		char v='b';
+		char v='g';
 		switch(v)
 		{
 		case 'a':System.out.println("Vowel");
