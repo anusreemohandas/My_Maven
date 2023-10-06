@@ -15,6 +15,9 @@ public class ClassC extends ClassA{
 		ClassA.print();
 		ClassB.print();
 		//System.out.println(ClassA.a);
+		
+		//System.out.println(ClassA.b);
+		//System.out.println(ClassA.c);
 
 	}
 

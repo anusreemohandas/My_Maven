@@ -11,7 +11,10 @@ public class ClassB {
 		print();
 		ClassA.print();
 		//System.out.println(ClassA.a);
-
+		ClassA obj=new ClassA();
+		System.out.println(obj.d);
+		System.out.println(ClassA.b);
+		System.out.println(ClassA.c);
 	}
 
 }
